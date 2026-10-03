@@ -1,0 +1,92 @@
+[
+ {
+  "key": "vajra",
+  "file": "vajra.jpg",
+  "width": 1100,
+  "height": 581,
+  "author": "The Metropolitan Museum of Art",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AMET_1992_150_1_S1.jpg"
+ },
+ {
+  "key": "sankosho",
+  "file": "sankosho.jpg",
+  "width": 1100,
+  "height": 880,
+  "author": "The Metropolitan Museum of Art",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%89%E9%88%B7%E6%9D%B5-Three-Pronged_Vajra_Ritual_Implement_%28Sankosho%29_MET_DT5689.jpg"
+ },
+ {
+  "key": "bell",
+  "file": "bell.jpg",
+  "width": 880,
+  "height": 1100,
+  "author": "The Metropolitan Museum of Art",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ADril-bu_MET_202429.jpg"
+ },
+ {
+  "key": "vajrapani",
+  "file": "vajrapani.jpg",
+  "width": 733,
+  "height": 1100,
+  "author": "Gary Lee Todd, Ph.D.",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AVajrapani_or_Heracles%2C_3rd-4th_Cent._AD.jpg"
+ },
+ {
+  "key": "mekhala",
+  "file": "mekhala.jpg",
+  "width": 1100,
+  "height": 714,
+  "author": "Unknown author",
+  "license": "Public domain",
+  "license_url": "",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AMekkala_and_Ramasura.png"
+ },
+ {
+  "key": "dagger",
+  "file": "dagger.jpg",
+  "width": 273,
+  "height": 1100,
+  "author": "Olaf Tausch",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AKairo_Museum_Eisendolch_Tutanchamun_01_%28cropped%29.jpg"
+ },
+ {
+  "key": "axe",
+  "file": "axe.jpg",
+  "width": 1100,
+  "height": 1013,
+  "author": "The Portable Antiquities Scheme, Charlotte Burrill",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ANeolithic_Polished_Stone_Axe_%28FindID_606782%29.jpg"
+ },
+ {
+  "key": "fulgurite",
+  "file": "fulgurite.jpg",
+  "width": 1100,
+  "height": 1083,
+  "author": "James St. John",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3AFulgurite_%28Sahara_Dune_Field%2C_Morocco%29_6.jpg"
+ },
+ {
+  "key": "rammasun",
+  "file": "rammasun.jpg",
+  "width": 500,
+  "height": 500,
+  "author": "NOAA",
+  "license": "Public domain",
+  "license_url": "",
+  "commons_page": "https://commons.wikimedia.org/wiki/File%3ARammasun_0000_10_May_2008.jpg"
+ }
+]
