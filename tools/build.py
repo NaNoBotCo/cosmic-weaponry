@@ -5,6 +5,7 @@ llms.txt and icon.svg. All copy, both languages, is in copy_text.py; photo credi
 Run:  python3 tools/build.py
 """
 import html
+import ogcards
 import json
 import math
 import os
@@ -205,6 +206,8 @@ def main():
     with open(os.path.join(DOCS, "llms.txt"), "w") as f:
         f.write("\n".join(lines))
     print("built en + th -> docs/")
+    ogcards.copy(os.path.join(HERE, ".."), DOCS)
+    ogcards.apply_tree(DOCS, BASE)
 
 
 if __name__ == "__main__":
